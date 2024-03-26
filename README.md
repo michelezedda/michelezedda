@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/GRt0qXY/dev.png)
 <h1 align="center">Hi 👋, I'm Michele</h1>
-<h3 align="center">A passionate junior developer from Italy</h3>
+<h3 align="center">A passionate junior front-end developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelezedda&label=Profile%20views&color=0e75b6&style=flat" alt="michelezedda" /> </p>
 
