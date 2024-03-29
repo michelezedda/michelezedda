@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co/GRt0qXY/dev.png)
 <h1 align="center">Hi 👋, I'm Michele</h1>
 <h3 align="center">A passionate junior front-end developer from Italy</h3>
 
