@@ -19,5 +19,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,npm,nodejs,sass,tailwind,vscode,git,github,canva,webpack,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,npm,nodejs,sass,tailwind,vscode,git,github,webpack,netlify)
 <br/>
