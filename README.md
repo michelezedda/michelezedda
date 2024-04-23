@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on [start2impact Univesity](https://www.start2impact.it/)
 
-- ⚡ Fun fact **I'm moving to the United States next year**
+- ⚡ Fun fact? **I'm moving to the United States next year**
 
 - 👨‍💻 All of my projects are available at [https://michelezedda.netlify.app/](https://michelezedda.netlify.app/)
 
