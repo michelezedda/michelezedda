@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://michelezedda.com/](https://michelezedda.com/)
 
-- 📫 How to reach me **michelezedda.dev@gmail.com**
+- 📫 How to reach me **dev@michelezedda.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
