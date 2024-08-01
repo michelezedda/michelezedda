@@ -14,6 +14,6 @@
 
 <h3 align="left">Skills:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,sass,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,sass,tailwind,vscode,github,git" />
   </a>
 </p>
