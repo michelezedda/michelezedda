@@ -7,7 +7,7 @@ and I'm passionate front-end developer</h1>
 
 - 📫 How to reach me: **dev@michelezedda.com**
 
-- 💻 OPEN TO WORK!
+- 💻 I'm open to work!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
