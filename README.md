@@ -5,7 +5,7 @@
   🌎 I am a Front-End Developer based in <b>Los Angeles, CA.</b><br/>
   👨‍💻 All of my projects are available at [https://michelezedda.com/](https://michelezedda.com/)<br/>
   📫 How to reach me: **dev@michelezedda.com**<br/>
-  🟢 I'm open to work!<br/>
+  🟢 Open to work!<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
