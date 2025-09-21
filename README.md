@@ -12,8 +12,13 @@
 <a href="https://linkedin.com/in/michelezedda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/michele-zedda-dev" /></a>
 </p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Tech stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass,tailwind,vscode,github,git,redux," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass,tailwind,vscode,github,git,redux,bootstrap,vitest,figma" />
+  </a>
+
+  <h3 align="left">Now learning</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb" />
   </a>
 </p>
