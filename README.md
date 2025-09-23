@@ -19,6 +19,11 @@
 
   <h3 align="left">Now learning</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+
+  <h3 align="left">Future goals</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,express,mongodb" />
   </a>
 </p>
