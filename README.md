@@ -14,12 +14,12 @@
 
 <h3 align="left">Tech stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass,tailwind,vscode,github,git,redux,bootstrap,vitest,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,sass,tailwind,vscode,github,git,bootstrap,vitest,figma" />
   </a>
 
   <h3 align="left">Now learning</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,redux" />
   </a>
 
   <h3 align="left">Future goals</h3>
