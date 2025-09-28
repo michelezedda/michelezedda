@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Single&pause=1000&color=4B94B0&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Michele)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2786B1&repeat=false&width=435&lines=Hi%2C+I'm+Michele!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelezedda&label=Profile%20views&color=0e75b6&style=flat" alt="michelezedda" /> </p>
 
